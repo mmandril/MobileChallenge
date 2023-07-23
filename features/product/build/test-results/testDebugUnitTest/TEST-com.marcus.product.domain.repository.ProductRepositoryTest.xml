@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.marcus.product.domain.repository.ProductRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-23T15:49:12" hostname="MacBook-Pro-de-Marcus.local" time="1.015">
-  <properties/>
-  <testcase name="getProductList should return a object ProductModelResponse with a list with 3 items" classname="com.marcus.product.domain.repository.ProductRepositoryTest" time="1.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

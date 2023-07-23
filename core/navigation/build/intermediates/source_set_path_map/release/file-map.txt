@@ -1,7 +1,0 @@
-com.navigation-pngs-0 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/build/generated/res/pngs/release
-com.navigation-resValues-1 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/build/generated/res/resValues/release
-com.navigation-mergeReleaseResources-2 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.navigation-mergeReleaseResources-3 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.navigation-merged_res-4 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/build/intermediates/merged_res/release
-com.navigation-main-5 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/src/main/res
-com.navigation-release-6 /Users/marcus/AndroidStudioProjects/MobileChallenge/core/navigation/src/release/res

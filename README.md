@@ -12,10 +12,10 @@ This project is divide by modules:
 * **Core:** Contain the core part of the application. The modules here are:
   1- Navigation: Contain the interfaces that handle the navigation in the app
   2- Remote Data: Contain the configuration to access the api
-  If we have a local storage, the configuration for the database whould be here as well.
+  3- Design System: Contains everything releated to design system, as theme, colors and compose components.
+  4- If we have a local storage, the configuration for the database whould be here as well.
 * **Feature:** Contains all the features modules for the application. The modules here are
-  1- Design System: Contains everything releated to design system, as theme, colors and compose components.
-  2- Product: Contain all the classes to handle the product in the application
+  1- Product: Contain all the classes to handle the product in the application
 
 In this project, I am usigin MVVM, using corountine with flow to handle the state of the view.
 
