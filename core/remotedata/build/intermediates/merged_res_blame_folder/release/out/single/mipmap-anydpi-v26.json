@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "core.remotedata-merged_res-12:/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "core.remotedata-main-13:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "core.remotedata-merged_res-12:/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "core.remotedata-main-13:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

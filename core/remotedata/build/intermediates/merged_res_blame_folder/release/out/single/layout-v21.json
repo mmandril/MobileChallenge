@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "core.remotedata-merged_res-12:/layout-v21/notification_action.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "core.remotedata-merged_res-12:/layout-v21/notification_action_tombstone.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "core.remotedata-merged_res-12:/layout-v21/notification_template_custom_big.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "core.remotedata-merged_res-12:/layout-v21/notification_template_icon_group.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout-v21/notification_template_icon_group.xml"
+    }
+]

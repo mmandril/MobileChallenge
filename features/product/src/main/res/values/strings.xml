@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Challenge</string>
+
+    <string name="product">Product</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+</resources>

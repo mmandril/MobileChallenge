@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.0.2" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="attr[colorPrimaryVariant(E)],color[purple_200(E),black(E),teal_200(E),purple_700(E)],drawable[ic_launcher_foreground(U),ic_launcher_background(U),ic_launcher_foreground_1(R)],mipmap[ic_launcher_round(U),ic_launcher(U)],string[app_name(U)],style[Theme_MobileChallenge(D),Theme_AppCompat_DayNight_NoActionBar(R),Theme_MaterialComponents_DayNight_DarkActionBar(E)],xml[data_extraction_rules(U),backup_rules(U)];5^7,8^6^5,9^6^5,b^d^1^4^2^3^0;;;"/>
+        <location id="R.style.Theme_MobileChallenge"
+            file="${:app*debug*sourceProvider*0*resDir*0}/values-night/themes.xml"
+            line="3"
+            column="12"
+            startOffset="107"
+            endLine="3"
+            endColumn="40"
+            endOffset="135"/>
+    </map>
+
+</incidents>

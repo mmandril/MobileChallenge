@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.marcus.designsystem-merged_res-52:/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
+        "source": "com.marcus.designsystem-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.marcus.designsystem-merged_res-52:/mipmap-xxxhdpi-v4/ic_launcher.webp",
+        "source": "com.marcus.designsystem-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

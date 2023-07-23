@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.marcus.mobilechallenge.app-mergeDebugResources-57:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/marcus/.gradle/caches/transforms-3/e7fae4a2f26bb56f38723d8921afdf36/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/marcus/.gradle/caches/transforms-3/5fbc098d23555142ae9acc91807e0169/transformed/core-1.10.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "core.remotedata-merged_res-12:/layout/custom_dialog.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "core.remotedata-merged_res-12:/layout/notification_template_part_chronometer.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "core.remotedata-merged_res-12:/layout/notification_template_part_time.xml",
+        "source": "core.remotedata-core-1.8.0-8:/layout/notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.marcus.product.domain.mapper.ProductMapperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-23T15:49:09" hostname="MacBook-Pro-de-Marcus.local" time="3.011">
+  <properties/>
+  <testcase name="GIVEN a ProductModelResponse WHEN transform from mapper is called THEN should not return a emptyList" classname="com.marcus.product.domain.mapper.ProductMapperTest" time="3.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
